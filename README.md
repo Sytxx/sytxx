@@ -1,5 +1,4 @@
-<h1 align="center">Hi, Im Sytxx</h1>
-<h3 align="center">not a pro, just do it when i want to</h3>
+
 
 - 🌱 I’m currently learning **Batch Scripting**
 
