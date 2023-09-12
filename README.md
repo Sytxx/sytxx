@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi, Im Sytxx</h1>
+<h3 align="center">not a pro, just do it when i want to</h3>
 
-<!--
-**Sytxx/sytxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Batch Scripting**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/Sytxx?tab=repositories](https://github.com/Sytxx?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sytxx&show_icons=true&locale=en&layout=compact" alt="sytxx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sytxx&show_icons=true&locale=en" alt="sytxx" /></p>
